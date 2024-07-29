@@ -1,2 +1,1 @@
-# yashika.
-software developer
+
